@@ -1,0 +1,13 @@
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\bin\x86\Debug\DrugiProjekatTVP.exe.config
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\bin\x86\Debug\DrugiProjekatTVP.exe
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\bin\x86\Debug\DrugiProjekatTVP.pdb
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.csprojAssemblyReference.cache
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.FrmArtikal.resources
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.FrmGlavna.resources
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.FrmGrupa.resources
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.FrmPregledRacuna.resources
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.Properties.Resources.resources
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.csproj.GenerateResource.cache
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.csproj.CoreCompileInputs.cache
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.exe
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\x86\Debug\DrugiProjekatTVP.pdb

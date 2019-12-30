@@ -1,0 +1,42 @@
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe.config
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.pdb
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csprojAssemblyReference.cache
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.Properties.Resources.resources
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csproj.GenerateResource.cache
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csproj.CoreCompileInputs.cache
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.exe
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.pdb
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmGlavna.resources
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmGrupa.resources
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmArtikal.resources
+B:\TVP - Projects\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmPregledRacuna.resources
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe.config
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.pdb
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmArtikal.resources
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmGlavna.resources
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmGrupa.resources
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmPregledRacuna.resources
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.Properties.Resources.resources
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csproj.GenerateResource.Cache
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.exe
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.pdb
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmDodajArtikal.resources
+C:\Users\marko\Desktop\DRUGITVP\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmDodavanjeArtiklaGrupa.resources
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe.config
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.pdb
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csprojAssemblyReference.cache
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmArtikal.resources
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmDodajArtikal.resources
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmGlavna.resources
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmGrupa.resources
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmDodavanjeArtiklaGrupa.resources
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.FrmPregledRacuna.resources
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.Properties.Resources.resources
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csproj.GenerateResource.cache
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.exe
+C:\Users\marko\OneDrive\Desktop\MojiProjekti\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.pdb
